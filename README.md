@@ -1,6 +1,6 @@
 # scrapKeys
 
-Scrap script files of urls and searching sensitive keys...
+Node scriptthat scraps script files of urls and searching sensitive keys...
 
 ## Installation and Run
  - npm install
