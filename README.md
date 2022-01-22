@@ -13,7 +13,7 @@ Scrap script files of urls and searching sensitive keys...
 
 ### List of Keys
 
-AWS_ACCESS_KEY_ID
+AWS_ACCESS_KEY_ID\n
 AWS_SECRET_ACCESS_KEY
 AMAZON_AWS_ACCESS_KEY_ID
 AMAZON_AWS_SECRET_ACCESS_KEY
